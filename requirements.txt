@@ -175,6 +175,3 @@ whitenoise==3.3.0
 widgetsnbextension==1.2.6
 wrapt==1.10.6
 
-=======
-
->>>>>>> c151df2069744cbac64ea74fc87ae3f5b0038e5f
